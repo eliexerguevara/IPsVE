@@ -3,7 +3,7 @@
 ## requerimientos si es Lista por Rutas: 
 
 ```bash
-add comment="RUTA DE BANCOS" distance=1 scope=10 gateway=192.168.1.1 dst-address=156.154.70.1
+add comment="RUTA IPs VENEZUELA" distance=1 scope=10 gateway=192.168.1.1 dst-address=156.154.70.1
 ```
 
 ## requerimientos si es Lista por Address List:
